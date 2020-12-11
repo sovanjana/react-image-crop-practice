@@ -1,2 +1,2 @@
-# react-image-crop-practice
+# image-cropping
 Created with CodeSandbox
